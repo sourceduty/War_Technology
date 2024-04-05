@@ -19,17 +19,22 @@ Economic Impacts: Wars can drastically alter economies, often leading to rapid i
 
 We can visualize these differences by plotting hypothetical curves representing the rate of change in each of these dimensions over time, with spikes during major wars to represent rapid evolution and more gradual slopes for general evolution.
 
-![War Evolution](https://github.com/sourceduty/War_Technology/assets/123030236/ac0812e8-0046-4c17-b42a-9924d96643ca)
+![War Evolution with Human Population](https://github.com/sourceduty/War_Technology/assets/123030236/3f34cb94-7463-4c72-9ca2-f31fa3ad3356)
 
-The visualization above represents a comparative view of evolution due to major wars versus general evolution over time across three dimensions: technological innovations, societal changes, and economic impacts.
+provides a comparative overview of several key dimensions over the 20th and early 21st centuries, with a focus on technological innovations, societal changes, economic impacts, and human population growth, especially highlighting the periods of World War I and World War II.
 
-Technological Innovations (Blue Line): There are notable spikes during World War I (1914-1918) and World War II (1939-1945), illustrating the rapid advancements in technology driven by the urgent demands of warfare. Outside of these periods, technological evolution follows a more gradual, oscillating pattern, reflective of peacetime innovations driven by commercial and scientific progress.
+Technological Innovations (Blue Line): This line now accurately reflects the generally accepted view that technological innovation has shown a trend of gradual and often exponential increase, particularly over the last century. The curve starts with a slower growth rate in the early 1900s and accelerates over time, representing the cumulative and accelerating nature of technological progress. This line no longer shows arbitrary dips but instead a more realistic progression of technological advancement.
 
-Societal Changes (Green Line): Similar to technological innovations, there are significant spikes during the major wars, representing rapid societal shifts, such as changes in gender roles, civil rights movements, and shifts in international relations. In contrast, peacetime societal evolution is more gradual and influenced by a myriad of cultural, economic, and political factors.
+Societal Changes (Green Line): This line continues to illustrate fluctuations in societal changes over time, with notable spikes during the major wars, indicating rapid societal shifts that often accompany periods of conflict. Outside of these periods, the changes are more gradual, reflecting the complex interplay of cultural, economic, and political factors in peacetime.
 
-Economic Impacts (Red Line): The economic trajectory shows dips during the major wars, indicative of the economic strain and devastation that can accompany wartime, including destruction of infrastructure and shifts in industrial production towards war efforts. Outside of war periods, the economic line shows fluctuations that represent the more regular ebb and flow of peacetime economies.
+Economic Impacts (Red Line): The economic impacts line shows fluctuations that represent the ebb and flow of economic conditions over time, with dips during the world wars indicating the economic strain and devastation often associated with these conflicts.
 
-This simplified visualization captures the essence of how major wars can act as catalysts for rapid evolution in various dimensions, contrasting with the more steady pace of change during peacetime. ​
+Adjusted Human Population (Purple Dashed Line): This line represents the human population growth, adjusted to account for the significant impacts of World War I and World War II. The adjustments are visible as slight decreases in the growth rate during and immediately after the wars, reflecting the direct and indirect effects of these conflicts on global population numbers.
+
+The grey shaded areas indicate the periods of World War I (1914-1918) and World War II (1939-1945), highlighting the times of significant upheaval and change.
+
+Overall, the visualization captures the dynamic interplay between these different dimensions, emphasizing how periods of conflict can accelerate changes across technological, societal, and economic spheres, while also impacting population growth. The overall trend in technological innovation, adjusted to reflect a more realistic exponential growth pattern, underscores the rapid pace of advancement in the modern era.
+
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
