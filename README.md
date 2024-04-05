@@ -21,7 +21,7 @@ We can visualize these differences by plotting hypothetical curves representing 
 
 ![War Evolution with Human Population](https://github.com/sourceduty/War_Technology/assets/123030236/3f34cb94-7463-4c72-9ca2-f31fa3ad3356)
 
-provides a comparative overview of several key dimensions over the 20th and early 21st centuries, with a focus on technological innovations, societal changes, economic impacts, and human population growth, especially highlighting the periods of World War I and World War II.
+The visualization provides a comparative overview of several key dimensions over the 20th and early 21st centuries, with a focus on technological innovations, societal changes, economic impacts, and human population growth, especially highlighting the periods of World War I and World War II.
 
 Technological Innovations (Blue Line): This line now accurately reflects the generally accepted view that technological innovation has shown a trend of gradual and often exponential increase, particularly over the last century. The curve starts with a slower growth rate in the early 1900s and accelerates over time, representing the cumulative and accelerating nature of technological progress. This line no longer shows arbitrary dips but instead a more realistic progression of technological advancement.
 
