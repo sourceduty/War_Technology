@@ -43,6 +43,8 @@ Overall, the visualization captures the dynamic interplay between these differen
 [Military Product](https://github.com/sourceduty/Military_Product)
 <br>
 [Russo-Ukrainian War](https://github.com/sourceduty/Russo-Ukrainian_War)
+<br>
+[WW2](https://github.com/sourceduty/WW2)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
